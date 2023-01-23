@@ -1,5 +1,6 @@
 import React from "react";
 
+//here you choose if you want to enlist the bots into the army or just see their data
 const botTypeClasses = {
   Assault: "icon military",
   Defender: "icon shield",

@@ -1,5 +1,6 @@
 import React from "react";
 
+//contains the bot type classes
 const botTypeClasses = {
     Assault: "icon military",
     Defender: "icon shield",

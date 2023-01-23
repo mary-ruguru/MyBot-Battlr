@@ -25,6 +25,8 @@ function BotsPage() {
             console.log(res)
         })
     }
+    
+    // bot will be added just once in the bot army
 
     function addRemoveBot(bot, inArmy) {
         // army === true if bot in botArmy

@@ -5,6 +5,9 @@ This is a website where you can add your own bot army.
 ## Author
 MARYANN NJUGUNA
 
+## Email
+maryannruguru20@gmail.com
+
 
 ## Instructions 
 

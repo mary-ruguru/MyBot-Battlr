@@ -12,7 +12,7 @@ function BotsPage() {
             .then(res => res.json())
             .then(data => setBotCollection(data))
     }, [])
-
+// delete bot from database
     function deleteBot(bot) {
         fetch(`http://localhost:3000/bots/${bot.id}`, {
             method: "DELETE",

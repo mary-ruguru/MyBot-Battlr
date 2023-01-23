@@ -2,7 +2,7 @@ import React from "react";
 import BotCard from "./BotCard";
 
 function YourBotArmy({botArmy, addRemoveBot, deleteBot}) {
-  //your bot army code here...
+  //code for the bot army
 
   return (
     <div className="ui segment inverted olive bot-army">
